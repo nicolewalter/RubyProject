@@ -7,7 +7,9 @@ WHY -  learning more about climate change in a personal and enjoyable way
 HOW - visualize the footprint and reward small improvements
 
 
-Basic Features:
+Basic Features*
+
+* ‚add activity’ maybe not part of MVP
 
 1. ask for user name and register/check in (to make carbon footprint personally trackable over time and compare with other users); no password required
 connect the user with others to form a group (e.g. classroom, school, 

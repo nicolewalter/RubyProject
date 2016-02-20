@@ -1,0 +1,36 @@
+CARBON FOOTPRINTS FOR KIDS
+
+WHAT - carbon footprint tracker for classroom projects
+
+WHY -  learning more about climate change in a personal and enjoyable way
+
+HOW - visualize the footprint and reward small improvements
+
+
+Basic Features:
+
+1. ask for user name and register/check in (to make carbon footprint personally trackable over time and compare with other users); no password required
+connect the user with others to form a group (e.g. classroom, school, 
+
+2. choose between ‚view track record‘, ‚add activity‘ and ‚calculate new footprint‘
+
+3. 	>> ‚calculate carbon footprint‘
+	footprint-1 start button
+	footprint-2 get answers in 4 categories (food, travel, home, stuff; source: footprint.wwf.org)
+	footprint-3 calculate footprint and save in database
+	footprint-4 display footprint and compare with classmates and friends; people in other countries)
+	footprint-5 display ways to improve footprint and earn badges (e.g. take the bike, buy local seasonal food, convince parents to switch to renewable energy)
+	footprint-6 go back to home 
+
+	>> ‚add activity‘
+	activity-1 display possibilities and accept choice (e.g. take the bike, buy local seasonal food, convince parents to switch to renewable energy)
+	activity-2 display badge and add to personal profile
+	activity-3 go back home
+
+	>> ‚view track record‘
+	track record-1 show track record and comparison with classmates and friends
+
+
+	
+
+

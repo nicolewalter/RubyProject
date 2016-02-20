@@ -1,0 +1,38 @@
+Links
+
+// UCA carbon footprint calc + research
+http://coolclimate.berkeley.edu/
+
+// Cool California - web portal for sustainability for Individuals, Cities, Schools
+hosts a list of resources
+
+http://www.coolcalifornia.org/
+http://www.coolcalifornia.org/resources
+
+// WWF carbon footprint calc
+http://footprint.wwf.org.uk/
+
+has a Methodology section at the bottom (pop up window) with data sources:
+Q: Where’s the data from, and how reliable is it?
+
+To calculate the UK’s consumption-based account (footprint) we used data from the Office for National Statistics, which undergoes regular assurance reviews. We supplemented this with data from the Eora MRIO database, which has undergone reliability testing.
+
+We also used the Eora database to find the energy and emissions figures for the rest of the world. We took care to ensure that this was consistent with UK data.
+
+Defra, Shrink That Footprint and the Energy Savings Trust provided additional data on home, travel and diet-related emissions.
+
+The calculator has been examined by Professors Thomas Wiedmann and John Barrett, who are world leaders in the field of accounting for consumption-based emissions.
+
+// Cool School Challenge
+competition to reduce C02 emissions in US classrooms & schools
+http://www.nwf.org/Eco-Schools-USA/Become-an-Eco-School/Cool-School-Challenge.aspx
+
+// API
+Cool Climate Berkeley
+https://api-central.berkeley.edu/apis
+
+// API Brighter Planet
+no fee for non-commercial use
+http://impact.brighterplanet.com/
+
+

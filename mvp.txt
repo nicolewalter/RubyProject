@@ -5,7 +5,8 @@ Basic Features
 Calculate Carbon Footprint
 
 1 show screen with intro and first question 
-2 get answer, save answer (to calculate footprint) and continue with next question
+2 get answer, save answer on client side and continue with next question
 3 loop until last question
+5 send answers wholesale to backend
 4 calculate footprint and visualize result
-5 clear stored and return to home screen
+5 return to home screen
